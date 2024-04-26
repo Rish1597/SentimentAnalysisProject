@@ -41,4 +41,4 @@ max.words – the maximum number of words to display on the plot (in the code ab
 
 
 
-Employed the Syuzhet package to generate sentiment scores, revealing that 'Trust' constitutes 35% of words, while 'Disgust' is only 2%.
+# Employed the Syuzhet package to generate sentiment scores, revealing that 'Trust' constitutes 35% of words, while 'Disgust' is only 2%.
